@@ -1,6 +1,8 @@
-# -bankCardNumIdentify  fork from https://github.com/DevilExileSu/BankCardOCR
+# -bankCardNumIdentify  
 
 # 基于tensorflow、keras实现对银行卡号识别
+
+fork from https://github.com/DevilExileSu/BankCardOCR
 ---
 # 测试环境
 ---
