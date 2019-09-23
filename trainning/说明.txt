@@ -1,0 +1,7 @@
+原来的短条数据共计1086个
+增强后总计：87966
+
+commands:
+    后台运行    nohup python3 datasets.py > enhance_imgs.log 2>&1 &
+    文件夹下文件计数    ls -l | grep "^-"| wc -l
+    删除文件夹下所有内容  rm -rf *
